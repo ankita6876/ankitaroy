@@ -1,47 +1,52 @@
-# Hi, I'm Ankita 👋
+# Ankita Roy 🌱✨
 
-🎓 **Computer Science Graduate** | 🧠 **Exploring AI, Computer Vision & Deep Learning**
+<p align="center">
+<a href="https://github.com/ankitaroy">
+    <img src="https://github-stats-alpha.vercel.app/api?username=ankitaroy&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
+</a>
 
----
+<p align="center">
+<a href="https://github.com/ankitaroy">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ankitaroy&theme=dracula">
+</a>    
 
-## About Me
-
-* CS graduate from **BRAC University**
-* Interested in **Computer Vision, Neural Networks, and AI research**
-* Currently strengthening foundations and building practical ML projects
-* Preparing for **MSc** and research-oriented opportunities
-
----
-
-## What I'm Working On
-
-* 🔬 Learning deep learning fundamentals (CNNs, Transformers)
-* 🧪 Small experiments in computer vision
-* 📂 Cleaning & organizing my GitHub projects
-
----
-
-## Skills
-
-* **Languages:** Python, Java
-* **ML / AI:** NumPy, Pandas, OpenCV (learning), PyTorch (learning)
-* **Other:** Git, GitHub, Jupyter Notebook
+<p align="center">
+<a href="https://github.com/ankitaroy">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ankitaroy&theme=dracula">
+</a>
+<a href="https://github.com/ankitaroy">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ankitaroy&theme=dracula">
+</a>
 
 ---
 
-## Goals
-
-* Build strong, well-documented projects
-* Gain confidence in AI research & implementation
-* Prepare for remote and research-based roles
-
----
-
-## Let's Connect
-
-* 🌐 GitHub: You're already here 🙂
-* 💬 Open to learning, collaboration, and growth
+### 👋 Hi, I’m Ankita
+- 🎓 **Computer Science graduate** from BRAC University  
+- 👀 Interested in **AI, Computer Vision, and Deep Learning**  
+- 🌱 Currently strengthening my foundations through hands-on practice and projects  
+- 🔬 Aspiring **AI / Computer Vision researcher**, preparing for MSc and research work  
+- 💞️ Open to learning, collaboration, and research-oriented projects  
 
 ---
 
-⭐ *This profile is a work in progress — learning step by step.*
+### 🧰 Skill Set
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,java,git,linux,opencv,pytorch,numpy,pandas" />
+  </a>
+</p>
+
+---
+
+### 📌 Featured Work
+| Project | Focus |
+|:------:|:-----:|
+| DataCamp Practice | Python, NumPy, Pandas, ML basics |
+| Computer Vision Experiments | Image processing & CV fundamentals |
+| Academic Projects | Coursework & applied CS concepts |
+
+---
+
+⭐ *This GitHub profile reflects my learning journey — building step by step with consistency and curiosity.*
+
+💬 Feel free to explore, learn together, and grow 🌸
